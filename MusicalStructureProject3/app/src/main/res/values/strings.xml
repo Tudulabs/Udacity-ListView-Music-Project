@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MusicalStructureProject3</string>
+    <string name="drakes_profile">Drake</string>
+    <string name="title_activity_artist_page">ArtistPage</string>
+    <string name="beyonce">Beyonce</string>
+    <string name="selena_gomez">Selena Gomez</string>
+    <string name="blink_182">Blink 182</string>
+
+    <string name="selena_description">Selena Marie Gomez (born July 22, 1992) is an Italian-American/Mexican-American actress, singer-songwriter, executive producer, fashion designer philanthropist..</string>
+    <string name="drake_description">Aubrey Drake Graham (born October 24, 1986)[3] is a Canadian rapper, singer, songwriter, actor, and entrepreneur.[4] Drake initially gained recognition as an actor on the teen drama television series Degrassi: The Next Generation in the early 2000s.</string>
+    <string name="beyonce_description">Beyoncé Giselle Knowles-Carter (/biːˈjɒnseɪ/; born September 4, 1981)[4] is an American singer, songwriter, dancer, actress, and businesswoman. Born and raised in Houston, Texas, Beyoncé performed in various singing and dancing competitions as a child. She rose to fame in the late 1990s as lead singer of the RB girl-group Destiny's Child.</string>
+    <string name="blink_description">Blink-182 (often stylized as blink-182; pronounced "blink one eighty two") is an American rock band formed in Poway, California in 1992. Since 2015, the lineup of the band has consisted of bassist and vocalist Mark Hoppus, drummer Travis Barker, and guitarist and vocalist Matt Skiba. Founded by guitarist and vocalist Tom DeLonge, Hoppus and drummer Scott Raynor, the band emerged from the Southern California punk scene of the early 1990s and first gained notoriety for high-energy live shows and irreverent lyrical toilet humor.</string>
+
+
+
+
+
+</resources>
